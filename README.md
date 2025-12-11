@@ -11,11 +11,17 @@ The project analyzes large-scale field experiment data from 592,859 card users, 
 The repository includes:
 
 -Data preprocessing scripts
+
 -PSM pipeline for selection-bias correction
+
 -Heckman two-step sample-selection models
+
 -Dragonnet implementation for estimating ITE (individual treatment effects)
+
 -SHAP analysis for interpreting deep causal models
+
 -Visualization and replication materials
+
 
 This README summarizes the research background, datasets, methodology, and instructions for fully reproducing the analysis.
 
