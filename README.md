@@ -60,9 +60,11 @@ tensorflow 1.15 or 2.0-compatible build/keras == 2.2.4/numpy < 2.0/scikit-learn/
 The dataset originates from Shinhan Card’s 2019 nationwide mobile promotion experiment.
 
 Samples
--592,859 users received one of six message types over three experiment days.
--Only 14,329 users (2.4%) downloaded/accepted the promotion.
-→ indicates strong self-selection behavior.
+-592,859 users received one of six message types over three experiment days
+
+-Only 14,329 users (2.4%) downloaded/accepted the promotion
+
+→ indicates strong self-selection behavior
 
 | Category             | Examples                                        |
 | -------------------- | ----------------------------------------------- |
