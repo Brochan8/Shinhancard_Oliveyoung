@@ -48,13 +48,13 @@ A. Traditional Causal Models (PSM + Heckman)
 
 Requirements: R >= 4.3
 
-Packages: MatchIt/dplyr/sampleSelection/sandwich/lmtest/ggplot2
+Packages: MatchIt / dplyr / sampleSelection / sandwich / lmtest / ggplot2
 
 B. Dragonnet + SHAP Interpretation (Python)
 
 Requirements: Python 3.10+
 
-tensorflow 1.15 or 2.0-compatible build/keras == 2.2.4/numpy < 2.0/scikit-learn/pandas/matplotlib/shap
+tensorflow 1.15 or 2.0-compatible build / keras == 2.2.4 / numpy < 2.0 /scikit-learn / pandas / matplotlib / shap
 
 # Data
 The dataset originates from Shinhan Card’s 2019 nationwide mobile promotion experiment.
